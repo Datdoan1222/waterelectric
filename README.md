@@ -35,6 +35,7 @@ electricity-water-management-app/
 ├── store/                 # Firebase connections and API services
 ├── utils/                 # Firebase, calculate functions
 └── README.md
+
 ## ✨ Key Features
 
 - 📊 **Real-Time Monitoring**:
