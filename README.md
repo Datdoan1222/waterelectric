@@ -20,22 +20,6 @@ This app helps landlords and property managers track and manage electricity and 
 - **Usage History:** Displays a monthly history of electricity and water consumption for each room.
 - **Cost Calculation:** Calculates and displays utility costs based on configured rates.
 
-## 📂 Project Structure
-
-Here’s an overview of the project structure, organized for easy navigation and maintainability:
-
-```plaintext
-electricity-water-management-app/
-
-
-├── assets/                # Images Logo, icons from Figma
-├── component/             # UI components (Button, Input, etc.)
-├── contant/               # Images, icons, styles, fonts from Figma
-├── screen/                # Screens (Home, Details, etc.)
-├── store/                 # Firebase connections and API services
-├── utils/                 # Firebase, calculate functions
-└── README.md
-
 ## ✨ Key Features
 
 - 📊 **Real-Time Monitoring**:
@@ -104,3 +88,20 @@ The application leverages the following technologies:
    ```bash
    git clone https://github.com/Datdoan1222/waterelectric.git
    cd waterelectric
+
+## 📂 Project Structure
+
+Here’s an overview of the project structure, organized for easy navigation and maintainability:
+
+```plaintext
+electricity-water-management-app/
+
+
+├── assets/                # Images Logo, icons from Figma
+├── component/             # UI components (Button, Input, etc.)
+├── contant/               # Images, icons, styles, fonts from Figma
+├── screen/                # Screens (Home, Details, etc.)
+├── store/                 # Firebase connections and API services
+├── utils/                 # Firebase, calculate functions
+└── README.md
+
